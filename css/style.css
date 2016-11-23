@@ -115,7 +115,8 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 	.fancy{
 		/*font-family: 'Great Vibes', cursive;*/
-		font-family: "Alegreya Sans";
+		/*font-family: "Alegreya Sans";*/
+		font-family: 'Open Sans', sans-serif;
 	}
 
 /* Page Animated item Styles */
