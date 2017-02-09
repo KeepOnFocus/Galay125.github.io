@@ -571,10 +571,13 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		transition: all 0.3s;
 	}	
 
-	.nav-menu{
-		float: right;
-		height: 100%;
-	}
+	
+
+.nav-menu {
+    margin: auto;
+    width: 50%;
+    height: 100%
+}
 
 	.nav-menu ul.nav{
 		height: 100%;
